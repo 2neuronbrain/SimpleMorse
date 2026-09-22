@@ -142,8 +142,8 @@ Tested with:
 - Name: SimpleMorse
 - Version: 1.0.0
 - Category: Data Processing & Communication
-- Author & Maintainer: Himanshu Chauragade
-- Repository: https://github.com/HimanshuChauragade/SimpleMorse
+- Author & Maintainer: Himanshu
+- Repository: https://github.com/2neuronbrain/SimpleMorse
 
 ##
 
@@ -174,6 +174,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@HimanshuChauragade](https://github.com/HimanshuChauragade)
-- **LinkedIn**: [Himanshu Chauragade](https://linkedin.com/in/himanshu-chauragade/)
-- **Email**: 2024000129@mssu.ac.in
+- **GitHub**: [@2neuronbrain](https://github.com/2neuronbrain)
+- **LinkedIn**: [2neuronbrain](https://linkedin.com/in/2neuronbrain/)
+- **Email**: himanshu.chauragade@gmail.com
