@@ -306,7 +306,7 @@ Contributions, bug reports, and pull requests are welcome:
 
 ---
 
-## License
+## License & Authors
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for complete details.
 
